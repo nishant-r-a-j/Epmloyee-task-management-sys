@@ -1,2 +1,3 @@
 # Epmloyee-task-management-sys
-A react based localstorage employee task maangement system.
+
+A React-based localstorage employee task management system.
